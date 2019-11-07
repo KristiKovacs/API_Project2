@@ -1,2 +1,2 @@
 # API_Project2
-API (w/ Python and Flask)
+Created an API with Python and Flask of Murder Myster books. 
